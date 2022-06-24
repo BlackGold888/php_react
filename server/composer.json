@@ -1,0 +1,17 @@
+{
+    "name": "blackgold/server",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "blackgold888",
+            "email": "khamidalakkhali@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
